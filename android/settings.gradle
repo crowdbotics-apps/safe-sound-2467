@@ -1,0 +1,3 @@
+rootProject.name = 'safe_sound_2467'
+
+include ':app'
